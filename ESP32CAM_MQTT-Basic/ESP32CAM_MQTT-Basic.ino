@@ -18,8 +18,8 @@
 #include <PubSubClient.h> //Biblioteca para conexion MQTT
 
 //Datos de WiFi
-const char* ssid = "********";  // Aquí debes poner el nombre de tu red
-const char* password = "********";  // Aquí debes poner la contraseña de tu red
+const char* ssid = "INFINITUMbrex";  // Aquí debes poner el nombre de tu red
+const char* password = "Aronchido305";  // Aquí debes poner la contraseña de tu red
 
 //Datos del broker MQTT
 const char* mqtt_server = "127.0.0.1"; // Si estas en una red local, coloca la IP asignada, en caso contrario, coloca la IP publica
